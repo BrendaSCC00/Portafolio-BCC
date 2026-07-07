@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 console.log("Portafolio cargado");
 import './less/estilo.less'
-=======
-
 import './less/estilo.less'
 console.log("Portafolio cargado");
->>>>>>> 5472bf667c5241ea1f56fe7e635514d446acafdf
 import './style.css'
 import javascriptLogo from './assets/javascript.svg'
 import viteLogo from './assets/vite.svg'
