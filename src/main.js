@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 import './less/estilo.less'
 console.log("Portafolio cargado");
-=======
 import './style.css'
->>>>>>> 90bfc9e8107a81579fb30853ad77491ed45a8f14
 import javascriptLogo from './assets/javascript.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
